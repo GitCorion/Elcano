@@ -7,7 +7,7 @@ on:
     # Corre cada 1h
     #- cron: '0 * * * *'
     # Otras programaciones
-    - cron: '0 10-22 * * *'
+    - cron: '0 8-10,18-22 * * *'
     #- cron: '0 0-10/3 * * *'
     # Corre cada 6h    
     #- cron: '0 */6 * * *'
